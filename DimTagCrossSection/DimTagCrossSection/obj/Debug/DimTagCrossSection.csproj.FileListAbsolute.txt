@@ -1,0 +1,21 @@
+D:\Kien\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\bin\Debug\DimTagCrossSection.dll
+D:\Kien\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\bin\Debug\DimTagCrossSection.pdb
+D:\Kien\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\DimTagCrossSection.csprojAssemblyReference.cache
+D:\Kien\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\DimTagCrossSection.csproj.CoreCompileInputs.cache
+D:\Kien\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\DimTagCrossSection.dll
+D:\Kien\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\DimTagCrossSection.pdb
+D:\Kien\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\Model\Form\InputForm.g.cs
+D:\Kien\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\DimTagCrossSection_MarkupCompile.cache
+D:\Kien\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\DimTagCrossSection_MarkupCompile.lref
+D:\Kien\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\Model\Form\InputForm.baml
+D:\Kien\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\DimTagCrossSection.g.resources
+D:\Kien\old pc\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\bin\Debug\DimTagCrossSection.dll
+D:\Kien\old pc\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\bin\Debug\DimTagCrossSection.pdb
+D:\Kien\old pc\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\DimTagCrossSection.csprojResolveAssemblyReference.cache
+D:\Kien\old pc\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\Model\Form\InputForm.g.cs
+D:\Kien\old pc\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\DimTagCrossSection_MarkupCompile.cache
+D:\Kien\old pc\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\DimTagCrossSection_MarkupCompile.lref
+D:\Kien\old pc\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\Model\Form\InputForm.baml
+D:\Kien\old pc\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\DimTagCrossSection.g.resources
+D:\Kien\old pc\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\DimTagCrossSection.dll
+D:\Kien\old pc\Study\Revit Api\DimTagCrossSection\DimTagCrossSection\DimTagCrossSection\obj\Debug\DimTagCrossSection.pdb
